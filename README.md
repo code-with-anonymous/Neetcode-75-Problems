@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0238-product-of-array-except-self) |
@@ -57,4 +58,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
