@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/code-with-anonymous/Neetcode-75-Problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
